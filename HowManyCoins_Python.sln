@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31702.278
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "HowManyCoins_Python", "HowManyCoins_Python\HowManyCoins_Python.pyproj", "{003330AC-96FA-49AC-97A9-DD63ED7BA661}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{003330AC-96FA-49AC-97A9-DD63ED7BA661}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{003330AC-96FA-49AC-97A9-DD63ED7BA661}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9ED6297D-ED74-4E6C-837B-3417966B453A}
+	EndGlobalSection
+EndGlobal
